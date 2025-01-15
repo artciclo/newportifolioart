@@ -13,4 +13,5 @@ Este é meu portfolio profissional. Aqui você encontra detalhes sobre mim e alg
 
 ## 👇 Confira o projeto pelo link:
 
-https://portfolio-natalia-curti.vercel.app/
+https://www.arthur-lima.com
+https://.vercel.app/
