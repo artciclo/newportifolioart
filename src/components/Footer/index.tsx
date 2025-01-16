@@ -4,7 +4,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   return (
     <FooterStyled>
-      <p>© Natalia Curti {currentYear} - Todos os direitos reservados.</p>
+      <p>Arthur Lima {currentYear}.</p>
     </FooterStyled>
   );
 };

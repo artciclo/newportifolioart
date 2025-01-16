@@ -22,20 +22,19 @@ const AboutMe = () => {
         <>
           <TitleSection title="Sobre mim" />
           <TextStyled>
-            Desenvolvedora Front-End, atualmente cursando Análise e
-            Desenvolvimento de Sistemas na Fatec Araraquara. Possuo
-            conhecimentos em desenvolvimento de interfaces intuitivas e
-            responsivas, utilizando tecnologias como React.js, Next.js, Redux,
-            JavaScript, TypeScript, Styled Components, Tailwind CSS, Bootstrap,
-            entre outras.
+            Profissional com extensa experiência em gestão de projetos,
+            atualmente atuando como Project Manager em desenvolvimento de
+            software. Possui mestrado em Engenharia Civil e Ambiental e uma
+            trajetória consolidada no Centro de Tecnologia da Informação Renato
+            Archer (CTI), com foco em planejamento estratégico, elaboração de
+            cronogramas, análise de dados e normatização.
           </TextStyled>
           <TextStyled>
-            Busco constantemente aprimorar meus conhecimentos e minhas
-            habilidades, sempre buscando as melhores práticas de
-            desenvolvimento. Sou uma pessoa proativa, com forte senso de
-            responsabilidade e comprometida com a qualidade do meu trabalho.
-            Tenho facilidade de trabalhar em equipe e estou sempre disposta a
-            aprender coisas novas.
+            Atualmente, atua na área de Tecnologia da Informação, utilizando
+            expertise multidisciplinar para implementar soluções inovadoras e
+            eficientes. A combinação de habilidades de gestão, conhecimento
+            técnico e visão estratégica garante a entrega de projetos que
+            agregam valor em ambientes dinâmicos e desafiadores.
           </TextStyled>
         </>
       )}

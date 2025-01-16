@@ -19,9 +19,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Natalia Curti | Portfolio",
+  title: "Arthur Lima | Portfolio",
   description:
-    "Portfolio de Natalia Curti - Desenvolvedora Front-End com foco em React.js e Next.js",
+    "Portfolio de Arthur Lima - Project Manager e Desenvolvedor de Software",
   icons: {
     icon: "/assets/favicon.png",
   },

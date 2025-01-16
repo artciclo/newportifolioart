@@ -12,7 +12,7 @@ import CustomButton from "../CustomButton";
 const Intro = () => {
   const [sentence, setSentence] = useState("");
   const [showCursor, setShowCursor] = useState(true);
-  const text = "Olá! Eu sou a Natalia";
+  const text = "Olá! Me chamo Arthur Lima!";
   const prevSentence = useRef<string | null>(null);
 
   useEffect(() => {
@@ -39,15 +39,17 @@ const Intro = () => {
         {sentence}
         {showCursor && <CursorStyled>|</CursorStyled>}
       </TitleStyled>
-      <SubtitleStyled>Desenvolvedora Front-End</SubtitleStyled>
+      <SubtitleStyled>
+        Project Manager | Product Manager | Front-End | IA{" "}
+      </SubtitleStyled>
       <TextStyled>
-        Estou em constante evolução. A cada projeto, descubro novas
-        possibilidades e me desafio a criar soluções inovadoras e eficazes.
+        Evoluo a cada dia, transformando cada projeto em um laboratório de
+        ideias, onde busco soluções criativas e eficientes.
       </TextStyled>
       <CustomButton
         as="a"
-        href="/assets/cv-natalia-curti.pdf"
-        download="cv-natalia-curti.pdf"
+        href="/assets/cv-arthur-lima.pdf"
+        download="cv-arthur-lima.pdf"
       >
         Download CV
       </CustomButton>

@@ -17,26 +17,26 @@ const array = [
   {
     icon: <FaLinkedin size={50} color={"#FFF"} />,
     title: "LinkedIn",
-    text: "Natalia Curti",
-    href: "https://www.linkedin.com/in/natalia-curti-a8b7b425a/",
+    text: "Arthur Lima",
+    href: "https://www.linkedin.com/in/artciclo/",
   },
   {
     icon: <IoLogoGithub size={50} color={"#FFF"} />,
     title: "Github",
-    text: "Natalia Curti",
-    href: "https://github.com/natcurti",
+    text: "Arthur Lima",
+    href: "https://github.com/artciclo",
   },
   {
     icon: <FaWhatsapp size={50} color={"#FFF"} />,
     title: "Telefone",
-    text: "(16)99609-7256",
-    href: "tel:5516996097256",
+    text: "(19)993294204",
+    href: "tel:5519993294204",
   },
   {
     icon: <HiOutlineMail size={50} color={"#FFF"} />,
     title: "Email",
-    text: "naticurti01@gmail.com",
-    href: "mailto:naticurti01@gmail.com",
+    text: "artciclo@gmail.com",
+    href: "mailto:artciclo@gmail.com",
   },
 ];
 

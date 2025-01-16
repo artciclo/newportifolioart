@@ -5,6 +5,7 @@ export const ContainerStyled = styled.div`
   width: 15.625rem;
   height: 15.625rem;
   position: relative;
+  margin-bottom: -220px;
 
   img {
     object-fit: contain;
